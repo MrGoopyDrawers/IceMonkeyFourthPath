@@ -1,0 +1,12 @@
+C:\Users\pauls\Documents\BTD6 Mod Sources\IceMonkeyFourthPath\bin\Debug\net6.0\IceMonkeyFourthPath.deps.json
+C:\Users\pauls\Documents\BTD6 Mod Sources\IceMonkeyFourthPath\bin\Debug\net6.0\IceMonkeyFourthPath.dll
+C:\Users\pauls\Documents\BTD6 Mod Sources\IceMonkeyFourthPath\bin\Debug\net6.0\PathsPlusPlus.dll
+C:\Users\pauls\Documents\BTD6 Mod Sources\IceMonkeyFourthPath\obj\Debug\net6.0\IceMonkeyFourthPath.csproj.AssemblyReference.cache
+C:\Users\pauls\Documents\BTD6 Mod Sources\IceMonkeyFourthPath\obj\Debug\net6.0\IceMonkeyFourthPath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauls\Documents\BTD6 Mod Sources\IceMonkeyFourthPath\obj\Debug\net6.0\IceMonkeyFourthPath.AssemblyInfoInputs.cache
+C:\Users\pauls\Documents\BTD6 Mod Sources\IceMonkeyFourthPath\obj\Debug\net6.0\IceMonkeyFourthPath.AssemblyInfo.cs
+C:\Users\pauls\Documents\BTD6 Mod Sources\IceMonkeyFourthPath\obj\Debug\net6.0\IceMonkeyFourthPath.csproj.CoreCompileInputs.cache
+C:\Users\pauls\Documents\BTD6 Mod Sources\IceMonkeyFourthPath\obj\Debug\net6.0\IceMonkeyFourthPath.csproj.CopyComplete
+C:\Users\pauls\Documents\BTD6 Mod Sources\IceMonkeyFourthPath\obj\Debug\net6.0\IceMonkeyFourthPath.dll
+C:\Users\pauls\Documents\BTD6 Mod Sources\IceMonkeyFourthPath\obj\Debug\net6.0\refint\IceMonkeyFourthPath.dll
+C:\Users\pauls\Documents\BTD6 Mod Sources\IceMonkeyFourthPath\obj\Debug\net6.0\ref\IceMonkeyFourthPath.dll
